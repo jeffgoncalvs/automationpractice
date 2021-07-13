@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BuySucess" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-13T19:57:53" hostname="RBSM0027.local" time="38.598">
+  <properties/>
+  <testcase name="BuySucess" classname="BuySucess" time="38.598"/>
+  <system-out><![CDATA[webdriver.chrome.driver:/Users/jefgoncalves/Documents/workspace/poc-buy/src/main/resources/ios/chromedriver
+http://automationpractice.com/index.php?
+Titulo da pagina ChromeDriver: chrome on MAC (e452c20f9807bd29ebf6cc811c0251d7)
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 25035
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 13, 2021 4:57:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
